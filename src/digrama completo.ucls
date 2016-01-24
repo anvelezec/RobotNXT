@@ -1,0 +1,1932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="objetos.futbol.cancha.Cancha" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/cancha/Cancha.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="837" width="255" x="52" y="-203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <component id="2" language="java" name="src" project="objetos-lego-pc" file="/objetos-lego-pc/src" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="39" width="114" x="347" y="-203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </component>  
+  <class id="3" language="java" name="objetos.futbol.cancha.Main" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/cancha/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="747" y="-154"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="objetos.futbol.Interfaz.VentanaBienvenida" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/Interfaz/VentanaBienvenida.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="574" y="71"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="objetos.futbol.jugadores.JugadaCompleja" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/jugadores/JugadaCompleja.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1412" y="1096"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="objetos.futbol.jugadores.JugadaComplejaDefensiva" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/jugadores/JugadaComplejaDefensiva.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="785" y="1630"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="objetos.futbol.jugadores.Arquero" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/jugadores/Arquero.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1373" y="576"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="objetos.futbol.jugadores.JugadaComplejaOfensiva" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/jugadores/JugadaComplejaOfensiva.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1428" y="1614"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="objetos.futbol.jugadores.Delantero" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/jugadores/Delantero.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1951" y="590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="objetos.futbol.jugadores.JugadaComplejaTiroLibre" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/jugadores/JugadaComplejaTiroLibre.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2157" y="1106"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="objetos.futbol.jugadores.Main" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/jugadores/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="880" y="-164"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="objetos.futbol.jugadores.Futbolista" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/jugadores/Futbolista.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1803" y="92"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="objetos.futbol.robot.Robot" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/robot/Robot.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="582" y="603"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="objetos.futbol.robot.Main" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/robot/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="785" y="450"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="objetos.futbol.robot.JugadaPrimitiva" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/robot/JugadaPrimitiva.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="976" y="666"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="objetos.futbol.UI.OpcionGeneral" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/OpcionGeneral.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2360" y="188"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="objetos.futbol.UI.Usuario" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/Usuario.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2976" y="89"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="18" language="java" name="objetos.futbol.UI.Opcion" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/Opcion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2427" y="612"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="19" language="java" name="objetos.futbol.UI.OpcionEspecifica" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/OpcionEspecifica.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2700" y="44"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="objetos.futbol.UI.UsuarioAdministrador" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/UsuarioAdministrador.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2616" y="1032"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="objetos.futbol.UI.UsuarioGeneral" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/UsuarioGeneral.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3040" y="516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="objetos.futbol.UI.opciones.OpcionMain" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/OpcionMain.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2884" y="1148"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="objetos.futbol.UI.opciones.VentanaPrincipal" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/VentanaPrincipal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3155" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="objetos.futbol.UI.opciones.MenuAdministrador" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/MenuAdministrador.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2939" y="1566"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="objetos.futbol.UI.opciones.main.AdministrarUsuarios" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/AdministrarUsuarios.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1408" y="2096"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="objetos.futbol.UI.opciones.main.AdministrarRobotFrame" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/AdministrarRobotFrame.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2958" y="2460"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="objetos.futbol.UI.opciones.main.AdministrarJugadasComplejas" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/AdministrarJugadasComplejas.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1828" y="2051"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="objetos.futbol.UI.opciones.main.AdministrarJugadoresFrame" 
+    project="objetos-lego-pc" file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/AdministrarJugadoresFrame.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2227" y="2559"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="objetos.futbol.UI.opciones.main.AdministrarJugadores" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/AdministrarJugadores.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2251" y="2069"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="objetos.futbol.UI.opciones.main.AdministrarUsuariosFrame" 
+    project="objetos-lego-pc" file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/AdministrarUsuariosFrame.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1390" y="2514"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="objetos.futbol.UI.opciones.main.AdministrarCancha" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/AdministrarCancha.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2614" y="2042"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="objetos.futbol.UI.opciones.main.AdministrarRobot" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/AdministrarRobot.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2953" y="2051"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="objetos.futbol.UI.opciones.main.AdministrarCanchaFrame" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/AdministrarCanchaFrame.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2610" y="2451"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="objetos.futbol.UI.opciones.main.AdministrarJugadasComplejasFrame" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/AdministrarJugadasComplejasFrame.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1817" y="2460"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas.AgregarJugadaComplejaPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas/AgregarJugadaComplejaPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3592" y="1096"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas.EliminarJugadaComplejaPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas/EliminarJugadaComplejaPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3912" y="1087"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas.AgregarJugadaCompleja" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas/AgregarJugadaCompleja.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4281" y="1168"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas.ListarJugadasComplejas" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas/ListarJugadasComplejas.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4640" y="1069"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas.AgregarJugadaComplejaFrame" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas/AgregarJugadaComplejaFrame.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4259" y="1496"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas.ListarJugadaComplejaPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas/ListarJugadaComplejaPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4956" y="1105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas.EliminarJugadaCompleja" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas/EliminarJugadaCompleja.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5271" y="1069"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas.agregarJugadaCompleja.EliminarJugadaPrimitivaPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas/agregarJugadaCompleja/EliminarJugadaPrimitivaPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3476" y="1913"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas.agregarJugadaCompleja.EliminarJugadaPrimitiva" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas/agregarJugadaCompleja/EliminarJugadaPrimitiva.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3890" y="1895"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas.agregarJugadaCompleja.ListarJugadasPrimitivasPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas/agregarJugadaCompleja/ListarJugadasPrimitivasPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4304" y="1931"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas.agregarJugadaCompleja.AgregarJugadaPrimitivaPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas/agregarJugadaCompleja/AgregarJugadaPrimitivaPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4718" y="2012"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas.agregarJugadaCompleja.ListarJugadasPrimitivas" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas/agregarJugadaCompleja/ListarJugadasPrimitivas.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5132" y="1895"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas.agregarJugadaCompleja.AgregarJugadaPrimitiva" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas/agregarJugadaCompleja/AgregarJugadaPrimitiva.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5546" y="1940"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="objetos.futbol.UI.opciones.main.administrarJugadores.AgregarJugadorPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadores/AgregarJugadorPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1967" y="3367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadores.EliminarJugadaComplejaJugadorPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadores/EliminarJugadaComplejaJugadorPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1124" y="3322"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="objetos.futbol.UI.opciones.main.administrarJugadores.ListarJugadoresPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadores/ListarJugadoresPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3100" y="3659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="objetos.futbol.UI.opciones.main.administrarJugadores.DescripcionJugadasComplejas" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadores/DescripcionJugadasComplejas.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1410" y="3367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="objetos.futbol.UI.opciones.main.administrarJugadores.AgregarJugadorPanel.OpenL" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadores/AgregarJugadorPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1830" y="3596"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="objetos.futbol.UI.opciones.main.administrarJugadores.InformacionBasicaJugador" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadores/InformacionBasicaJugador.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1692" y="3367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="objetos.futbol.UI.opciones.main.administrarJugadores.EliminarJugadorPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadores/EliminarJugadorPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2825" y="3358"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadores.AgregarJugadaComplejaJugadorPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadores/AgregarJugadaComplejaJugadorPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3138" y="3394"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadores.AgregarJugadaComplejaJugador" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadores/AgregarJugadaComplejaJugador.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2259" y="3376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="objetos.futbol.UI.opciones.main.administrarJugadores.ListarJugadores" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadores/ListarJugadores.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2550" y="3367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="objetos.futbol.UI.opciones.main.administrarJugadores.EliminarJugador" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadores/EliminarJugador.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2825" y="3632"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="objetos.futbol.UI.opciones.main.administrarJugadores.AgregarJugador" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadores/AgregarJugador.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2105" y="3632"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="objetos.futbol.UI.opciones.main.administrarRobot.AgregarJugadorRobotPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarRobot/AgregarJugadorRobotPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3820" y="3371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="objetos.futbol.UI.opciones.main.administrarRobot.QuitarRobot" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarRobot/QuitarRobot.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4109" y="3353"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="objetos.futbol.UI.opciones.main.administrarRobot.AgregarRobotPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarRobot/AgregarRobotPanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4366" y="3362"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="63" language="java" name="objetos.futbol.UI.opciones.main.administrarRobot.EliminarRobotPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarRobot/EliminarRobotPanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4623" y="3362"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="64" language="java" name="objetos.futbol.UI.opciones.main.administrarRobot.configurarBTRobot" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarRobot/configurarBTRobot.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4880" y="3362"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="objetos.futbol.UI.opciones.main.administrarRobot.EstablecerJugadorRobotPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarRobot/EstablecerJugadorRobotPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5175" y="3380"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="objetos.futbol.UI.opciones.main.administrarRobot.ListarRobots" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarRobot/ListarRobots.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5470" y="3353"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="objetos.futbol.UI.opciones.main.administrarRobot.AgregarRobot" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarRobot/AgregarRobot.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4366" y="3582"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="objetos.futbol.UI.opciones.main.administrarRobot.EstablecerJugadorRobot" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarRobot/EstablecerJugadorRobot.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5727" y="3380"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="objetos.futbol.UI.opciones.main.administrarRobot.ListarRobotsPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarRobot/ListarRobotsPanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5137" y="3600"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="70" language="java" name="objetos.futbol.UI.opciones.main.administrarUsuarios.ListarUsuariosPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarUsuarios/ListarUsuariosPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="160" y="3110"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="71" language="java" name="objetos.futbol.UI.opciones.main.administrarUsuarios.AgregarUsuario" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarUsuarios/AgregarUsuario.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="730" y="3348"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="72" language="java" name="objetos.futbol.UI.opciones.main.administrarUsuarios.EliminarUsuario" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarUsuarios/EliminarUsuario.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="442" y="3348"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="73" language="java" name="objetos.futbol.UI.opciones.main.administrarUsuarios.EliminarUsuarioPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarUsuarios/EliminarUsuarioPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="452" y="3092"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="objetos.futbol.UI.opciones.main.administrarUsuarios.AgregarUsuarioPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarUsuarios/AgregarUsuarioPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="742" y="3092"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="75" language="java" name="objetos.futbol.UI.opciones.main.administrarUsuarios.ListarUsuarios" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarUsuarios/ListarUsuarios.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1022" y="3074"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="76" language="java" name="objetos.futbol.UI.opciones.main.cancha.JuegoFrame" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/JuegoFrame.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2990" y="4838"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="77" language="java" name="objetos.futbol.UI.opciones.main.cancha.EliminarRobotCanchaPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/EliminarRobotCanchaPanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2690" y="4182"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="78" language="java" name="objetos.futbol.UI.opciones.main.cancha.AgregarRobotCancha" 
+    project="objetos-lego-pc" file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/AgregarRobotCancha.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3735" y="4393"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="79" language="java" name="objetos.futbol.UI.opciones.main.cancha.ListarJugadasRealizadas" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/ListarJugadasRealizadas.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2983" y="4200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="80" language="java" name="objetos.futbol.UI.opciones.main.cancha.ListarRobotsCancha" 
+    project="objetos-lego-pc" file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/ListarRobotsCancha.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3246" y="4182"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="81" language="java" name="objetos.futbol.UI.opciones.main.cancha.ListarRobotsCanchaPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/ListarRobotsCanchaPanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3490" y="4200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="82" language="java" name="objetos.futbol.UI.opciones.main.cancha.EliminarRobotCancha" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/EliminarRobotCancha.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4015" y="4182"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="83" language="java" name="objetos.futbol.UI.opciones.main.cancha.AgregarRobotCanchaPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/AgregarRobotCanchaPanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3767" y="4182"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="84" language="java" name="objetos.futbol.UI.opciones.main.cancha.Juego" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/Juego.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2943" y="4438"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="85" language="java" name="objetos.futbol.UI.opciones.main.cancha.juego.EjecutarJugadaComplejaPanel.oyente" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/juego/EjecutarJugadaComplejaPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3767" y="5512"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="86" language="java" name="objetos.futbol.UI.opciones.main.cancha.juego.EjecutarJugadaPrimitivaPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/juego/EjecutarJugadaPrimitivaPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2301" y="5310"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="87" language="java" name="objetos.futbol.UI.opciones.main.cancha.juego.EjecutarJugadaPrimitivaPanel.oyente" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/juego/EjecutarJugadaPrimitivaPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2301" y="5512"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="88" language="java" name="objetos.futbol.UI.opciones.main.cancha.juego.CanchaPanel" 
+    project="objetos-lego-pc" file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/juego/CanchaPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3291" y="5647"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="89" language="java" name="objetos.futbol.UI.opciones.main.cancha.juego.EjecutarJugadaCompleja" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/juego/EjecutarJugadaCompleja.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2060" y="5283"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="90" language="java" name="objetos.futbol.UI.opciones.main.cancha.juego.JuegoCancha" 
+    project="objetos-lego-pc" file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/juego/JuegoCancha.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3285" y="5265"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="91" language="java" name="objetos.futbol.UI.opciones.main.cancha.juego.AccionesPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/juego/AccionesPanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2552" y="5310"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="92" language="java" name="objetos.futbol.UI.opciones.main.cancha.juego.EjecutarJugadaPrimitiva" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/juego/EjecutarJugadaPrimitiva.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2803" y="5283"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="93" language="java" name="objetos.futbol.UI.opciones.main.cancha.juego.PausarPartido" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/juego/PausarPartido.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3044" y="5274"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="94" language="java" name="objetos.futbol.UI.opciones.main.cancha.juego.EjecutarJugadaComplejaPanel" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/juego/EjecutarJugadaComplejaPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3767" y="5283"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="95" language="java" name="objetos.futbol.UI.opciones.main.cancha.juego.ReanudarPartido" 
+    project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/juego/ReanudarPartido.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3526" y="5274"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="96" language="java" name="objetos.futbol.varios.CalcularTiempo" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/varios/CalcularTiempo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="843" y="5809"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="97" language="java" name="objetos.futbol.varios.ManejoXML" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/varios/ManejoXML.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="330" y="5364"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="98" language="java" name="objetos.futbol.varios.ExcepcionDeSeguridad" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/varios/ExcepcionDeSeguridad.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="617" y="5229"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="99" language="java" name="objetos.futbol.varios.LecturaTeclado" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/varios/LecturaTeclado.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="995" y="5238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="100" language="java" name="objetos.futbol.varios.Main" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/varios/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1147" y="5238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="101" language="java" name="objetos.futbol.varios.ManejoXMLeer" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/varios/ManejoXMLeer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1423" y="5400"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="102" language="java" name="objetos.futbol.varios.Manejo_de_jugadas" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/varios/Manejo_de_jugadas.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="821" y="5274"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="103" language="java" name="objetos.futbol.varios.Posicionamiento" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/varios/Posicionamiento.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1702" y="5229"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="104" language="java" name="objetos.futbol.varios.Inicializar" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/varios/Inicializar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1852" y="5238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="105">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="106" name="administrarJugadasComplejasFrame"/>      
+      <multiplicity id="107" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="108">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="109">    
+    <end type="SOURCE" refId="76" navigable="false">      
+      <attribute id="110" name="primitivaPanel"/>      
+      <multiplicity id="111" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="86" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="112">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="113">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="114" name="listarJugadores"/>      
+      <multiplicity id="115" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="116">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="117" name="administrarUsuariosFrame"/>      
+      <multiplicity id="118" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="119">    
+    <end type="SOURCE" refId="63" navigable="false">      
+      <attribute id="120" name="eliminarRobot"/>      
+      <multiplicity id="121" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="82" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="122">    
+    <end type="SOURCE" refId="65" navigable="false">      
+      <attribute id="123" name="listarJugadoresPanel"/>      
+      <multiplicity id="124" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="125">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="126" name="administrarRobotFrame"/>      
+      <multiplicity id="127" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="128">    
+    <end type="SOURCE" refId="83" navigable="false">      
+      <attribute id="129" name="agregarRobotCancha"/>      
+      <multiplicity id="130" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="78" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="131">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="132" name="jugadaComplejas"/>      
+      <multiplicity id="133" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="134">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="135" name="establecerJugadorRobotPanel"/>      
+      <multiplicity id="136" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="137">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="138" name="agregarJugadores"/>      
+      <multiplicity id="139" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="140">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="141" name="eliminarJugador"/>      
+      <multiplicity id="142" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="143">    
+    <end type="SOURCE" refId="89"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="144">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <generalization id="145">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="146">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="147" name="agregarJugador"/>      
+      <multiplicity id="148" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="149">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="150" name="tiempo"/>      
+      <multiplicity id="151" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="96" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="152">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="153" name="usuarios"/>      
+      <multiplicity id="154" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="155">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="156">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="157" name="agregarRobotCancha"/>      
+      <multiplicity id="158" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="159">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="160" name="XML"/>      
+      <multiplicity id="161" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="97" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="162">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="163" name="accionesPanel"/>      
+      <multiplicity id="164" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="91" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="165">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <realization id="166">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="18"/>  
+  </realization>  
+  <generalization id="167">    
+    <end type="SOURCE" refId="78"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="168">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="169" name="usuarioAdministrador"/>      
+      <multiplicity id="170" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="171">    
+    <end type="SOURCE" refId="72"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="172">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="173">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="174">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="175" name="complejaJugadorPanel"/>      
+      <multiplicity id="176" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="55" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="177">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="178" name="jugadasComplejasList"/>      
+      <multiplicity id="179" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="180">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="181" name="agregarJugadaPrimitiva"/>      
+      <multiplicity id="182" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="45" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="183">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="184">    
+    <end type="SOURCE" refId="65" navigable="false">      
+      <attribute id="185" name="listarRobotsPanel"/>      
+      <multiplicity id="186" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="187">    
+    <end type="SOURCE" refId="76" navigable="false">      
+      <attribute id="188" name="canchaPanel"/>      
+      <multiplicity id="189" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="88" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="190">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="191" name="administrarCanchaFrame"/>      
+      <multiplicity id="192" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="193">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="194">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="195" name="listarUsuarios"/>      
+      <multiplicity id="196" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="197">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="198">    
+    <end type="SOURCE" refId="102" navigable="false">      
+      <attribute id="199" name="momento"/>      
+      <multiplicity id="200" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="96" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="201">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="202" name="listarJugadasPrimitivas"/>      
+      <multiplicity id="203" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="44" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="204">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="205" name="administrarJugadasComplejasFrame"/>      
+      <multiplicity id="206" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="207">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="18"/>  
+  </realization>  
+  <generalization id="208">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="209">    
+    <end type="SOURCE" refId="75"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="210">    
+    <end type="SOURCE" refId="84" navigable="false">      
+      <attribute id="211" name="robot"/>      
+      <multiplicity id="212" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="213">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="214">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="215" name="jugadasPrimitivas"/>      
+      <multiplicity id="216" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="217">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="218" name="eliminarRobot"/>      
+      <multiplicity id="219" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="220">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="221" name="juego"/>      
+      <multiplicity id="222" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="223">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="224" name="listarJugadoresPanel"/>      
+      <multiplicity id="225" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="226">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="227" name="eliminarJugadores"/>      
+      <multiplicity id="228" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="54" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="229">    
+    <end type="SOURCE" refId="84" navigable="false">      
+      <attribute id="230" name="juegoFrame"/>      
+      <multiplicity id="231" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="232">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="233">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="234">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="235" name="administrarJugadores"/>      
+      <multiplicity id="236" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="237">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="238" name="eliminarRobot"/>      
+      <multiplicity id="239" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="240">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="241">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="242" name="menuAdministrador"/>      
+      <multiplicity id="243" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="244">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="245" name="eliminarUsuario"/>      
+      <multiplicity id="246" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="247">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="248">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="249" name="administrarJugadasComplejas"/>      
+      <multiplicity id="250" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="251">    
+    <end type="SOURCE" refId="79" navigable="false">      
+      <attribute id="252" name="juego"/>      
+      <multiplicity id="253" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="254">    
+    <end type="SOURCE" refId="102" navigable="false">      
+      <attribute id="255" name="InfoJugador"/>      
+      <multiplicity id="256" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="257">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="258">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="259">    
+    <end type="SOURCE" refId="93"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="260">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="261" name="jugadaCompleja"/>      
+      <multiplicity id="262" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="263">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="264">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <nesting id="265">    
+    <end type="SOURCE" refId="86"/>    
+    <end type="TARGET" refId="87"/>  
+  </nesting>  
+  <generalization id="266">    
+    <end type="SOURCE" refId="82"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="267">    
+    <end type="SOURCE" refId="95"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="268">    
+    <end type="SOURCE" refId="102" navigable="false">      
+      <attribute id="269" name="jugada"/>      
+      <multiplicity id="270" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="271">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="272" name="listarRobotsCancha"/>      
+      <multiplicity id="273" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="274">    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="275" name="agregarRobot"/>      
+      <multiplicity id="276" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="67" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="277">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="278" name="Autor"/>      
+      <multiplicity id="279" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="280">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="281" name="agregarJugadasComplejas"/>      
+      <multiplicity id="282" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="283">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="284" name="jugador"/>      
+      <multiplicity id="285" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="286">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="287">    
+    <end type="SOURCE" refId="83" navigable="false">      
+      <attribute id="288" name="listarRobotsPanel"/>      
+      <multiplicity id="289" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="290">    
+    <end type="SOURCE" refId="86" navigable="false">      
+      <attribute id="291" name="jugadaPrimitiva"/>      
+      <multiplicity id="292" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="293">    
+    <end type="SOURCE" refId="73" navigable="false">      
+      <attribute id="294" name="eliminarUsuario"/>      
+      <multiplicity id="295" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="296">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="297" name="cancha"/>      
+      <multiplicity id="298" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="299">    
+    <end type="SOURCE" refId="90" navigable="false">      
+      <attribute id="300" name="canchaPanel"/>      
+      <multiplicity id="301" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="88" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="302">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="303" name="agregarJugadaComplejaFrame"/>      
+      <multiplicity id="304" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="305">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="306" name="delanteros"/>      
+      <multiplicity id="307" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="308">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="309" name="agregarRobots"/>      
+      <multiplicity id="310" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="311">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="312">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="313">    
+    <end type="SOURCE" refId="74" navigable="false">      
+      <attribute id="314" name="agregarUsuario"/>      
+      <multiplicity id="315" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="316">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="317" name="arqueros"/>      
+      <multiplicity id="318" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="319">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="320" name="robots"/>      
+      <multiplicity id="321" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="322">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <generalization id="323">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="324">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="325" name="usuarios"/>      
+      <multiplicity id="326" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="327">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="328" name="eliminarJugadasComplejas"/>      
+      <multiplicity id="329" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="330">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="331" name="administrarRobot"/>      
+      <multiplicity id="332" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="333">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="334" name="robots"/>      
+      <multiplicity id="335" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="336">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="337" name="usuarioLogeado"/>      
+      <multiplicity id="338" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="339">    
+    <end type="SOURCE" refId="76" navigable="false">      
+      <attribute id="340" name="complejaPanel"/>      
+      <multiplicity id="341" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="94" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="342">    
+    <end type="SOURCE" refId="94"/>    
+    <end type="TARGET" refId="85"/>  
+  </nesting>  
+  <association id="343">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="344" name="usuarioG"/>      
+      <multiplicity id="345" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="346">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="52"/>  
+  </nesting>  
+  <association id="347">    
+    <end type="SOURCE" refId="60" navigable="false">      
+      <attribute id="348" name="listarJugadoresPanel"/>      
+      <multiplicity id="349" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="350">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="351" name="eliminarRobotCancha"/>      
+      <multiplicity id="352" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="353">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="354" name="leerXML"/>      
+      <multiplicity id="355" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="101" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="356">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="357" name="usuarioGeneral"/>      
+      <multiplicity id="358" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="359">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="360">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="361" name="eliminarJugadaPrimitiva"/>      
+      <multiplicity id="362" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="363">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="364" name="listarRobots"/>      
+      <multiplicity id="365" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="366">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="367" name="agregarUsuario"/>      
+      <multiplicity id="368" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="369">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="370">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="371" name="xml"/>      
+      <multiplicity id="372" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="97" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="373">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="374">    
+    <end type="SOURCE" refId="92"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="375">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="376" name="jugadasComplejas"/>      
+      <multiplicity id="377" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="378">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="379">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="380">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="381">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="382" name="xmleer"/>      
+      <multiplicity id="383" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="101" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="384">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="385" name="listarJugadasComplejas"/>      
+      <multiplicity id="386" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="387">    
+    <end type="SOURCE" refId="76" navigable="false">      
+      <attribute id="388" name="paneljugadores"/>      
+      <multiplicity id="389" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="390">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="391" name="administrarCancha"/>      
+      <multiplicity id="392" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="393">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="394" name="administrarJugadoresFrame"/>      
+      <multiplicity id="395" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="396">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="397" name="opciones"/>      
+      <multiplicity id="398" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="399">    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

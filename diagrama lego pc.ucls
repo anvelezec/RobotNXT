@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <package id="1" language="java" name="objetos.futbol.UI.opciones.main.cancha.juego" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha/juego" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="280" x="56" y="196"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="objetos.futbol.jugadores" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/jugadores" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="161" x="376" y="196"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="3" language="java" name="objetos.futbol.UI.opciones.main.administrarUsuarios" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarUsuarios" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="321" x="577" y="196"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="4" language="java" name="objetos.futbol.robot" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/robot" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="134" x="938" y="196"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="5" language="java" name="objetos.futbol.UI.opciones.main.cancha" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/cancha" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="246" x="1112" y="196"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="6" language="java" name="objetos.futbol.cancha" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/cancha" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="146" x="1398" y="196"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="7" language="java" name="objetos.futbol.UI.opciones.main" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="201" x="1584" y="196"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="8" language="java" 
+    name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas.agregarJugadaCompleja" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas/agregarJugadaCompleja" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="522" x="1825" y="196"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="9" language="java" name="objetos.futbol.UI.opciones.main.administrarRobot" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarRobot" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="303" x="2387" y="196"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="10" language="java" name="objetos.futbol.varios" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/varios" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="139" x="2730" y="196"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="11" language="java" name="objetos.futbol.UI.opciones.main.administrarJugadasComplejas" 
+    project="objetos-lego-pc" file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadasComplejas" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="379" x="2909" y="196"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="12" language="java" name="objetos.futbol.UI.opciones" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="170" x="3328" y="196"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="13" language="java" name="objetos.futbol.UI.opciones.main.administrarJugadores" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI/opciones/main/administrarJugadores" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="331" x="3538" y="196"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="14" language="java" name="objetos.futbol.UI" project="objetos-lego-pc" 
+    file="/objetos-lego-pc/src/objetos/futbol/UI" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="115" x="3909" y="196"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Futbolistas>
+	<Arquero>
+		<TiempoSinGoles>0</TiempoSinGoles>
+		<Dorsal>1</Dorsal>
+		<Nombre>Manuel Neuer</Nombre>
+		<Posicion>Arquero</Posicion>
+		<ListaJugadas />
+		<JugadasComplejas>
+			<JugadaCompleja>
+				<JugadaComplejaDefensiva>
+					<NombreJugada>Punta a Punta</NombreJugada>
+					<FechaCreacion>8/11/2015</FechaCreacion>
+					<Autor>Grupo 11</Autor>
+					<Explicacion> Esta jugada evita la anotacion de un gol mediante un
+						enfrentamiento al delantero y posteriormente movimientos de
+						acotacion de la arqueria</Explicacion>
+					<JugadasPrimitivas>
+						<JugadaPrimitiva>
+							<Tipo>1</Tipo>
+							<Valor>30</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>2</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>3</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>3</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>2</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>4</Tipo>
+							<Valor>30</Valor>
+						</JugadaPrimitiva>
+					</JugadasPrimitivas>
+				</JugadaComplejaDefensiva>
+			</JugadaCompleja>
+		</JugadasComplejas>
+	</Arquero>
+	<Arquero>
+		<TiempoSinGoles>0</TiempoSinGoles>
+		<Dorsal>33</Dorsal>
+		<Nombre>David de Gea</Nombre>
+		<Posicion>Arquero</Posicion>
+		<ListaJugadas />
+		<JugadasComplejas>
+			<JugadaCompleja>
+				<JugadaComplejaDefensiva>
+					<NombreJugada>yo-yo</NombreJugada>
+					<FechaCreacion>8/11/2015</FechaCreacion>
+					<Autor>Grupo 11</Autor>
+					<Explicacion> Esta jugada evita la anotacion de un gol mediante un
+						enfrentamiento al delantero continuo</Explicacion>
+					<JugadasPrimitivas>
+						<JugadaPrimitiva>
+							<Tipo>1</Tipo>
+							<Valor>44</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>4</Tipo>
+							<Valor>44</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>1</Tipo>
+							<Valor>44</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>4</Tipo>
+							<Valor>44</Valor>
+						</JugadaPrimitiva>
+					</JugadasPrimitivas>
+				</JugadaComplejaDefensiva>
+			</JugadaCompleja>
+		</JugadasComplejas>
+	</Arquero>
+	<Arquero>
+		<TiempoSinGoles>0</TiempoSinGoles>
+		<Dorsal>51</Dorsal>
+		<Nombre>Thibaut Coutrois</Nombre>
+		<Posicion>Arquero</Posicion>
+		<ListaJugadas />
+		<JugadasComplejas>
+			<JugadaCompleja>
+				<JugadaComplejaDefensiva>
+					<NombreJugada>Tarantula</NombreJugada>
+					<FechaCreacion>8/11/2015</FechaCreacion>
+					<Autor>Grupo 11</Autor>
+					<Explicacion> Esta jugada evita la anotacion de un gol mediante la
+						acotacion de este con giros de izquierda a derecha y avances
+						cortos laterales </Explicacion>
+					<JugadasPrimitivas>
+						<JugadaPrimitiva>
+							<Tipo>2</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>1</Tipo>
+							<Valor>20</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>4</Tipo>
+							<Valor>40</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>1</Tipo>
+							<Valor>20</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>3</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+					</JugadasPrimitivas>
+				</JugadaComplejaDefensiva>
+			</JugadaCompleja>
+		</JugadasComplejas>
+	</Arquero>
+	<Arquero>
+		<TiempoSinGoles>0</TiempoSinGoles>
+		<Dorsal>75</Dorsal>
+		<Nombre>Peter cech</Nombre>
+		<Posicion>Arquero</Posicion>
+		<ListaJugadas />
+		<JugadasComplejas>
+			<JugadaCompleja>
+				<JugadaComplejaDefensiva>
+					<NombreJugada>La checolovaka</NombreJugada>
+					<FechaCreacion>8/11/2015</FechaCreacion>
+					<Autor>Grupo 11</Autor>
+					<Explicacion> Esta jugada evita la anotacion de un gol mediante
+						movimientos tipicamente checos. Estos consisten en giros
+						inesperados de izquierda a deracha para el maximo cubrimiento de
+						la arqueria </Explicacion>
+					<JugadasPrimitivas>
+						<JugadaPrimitiva>
+							<Tipo>1</Tipo>
+							<Valor>30</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>2</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>3</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>3</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>2</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>2</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>3</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+					</JugadasPrimitivas>
+				</JugadaComplejaDefensiva>
+			</JugadaCompleja>
+		</JugadasComplejas>
+	</Arquero>
+	<Arquero>
+		<TiempoSinGoles>0</TiempoSinGoles>
+		<Dorsal>99</Dorsal>
+		<Nombre>Keylor Navas</Nombre>
+		<Posicion>Arquero</Posicion>
+		<ListaJugadas />
+		<JugadasComplejas>
+			<JugadaCompleja>
+				<JugadaComplejaDefensiva>
+					<NombreJugada>Gamboa</NombreJugada>
+					<FechaCreacion>8/11/2015</FechaCreacion>
+					<Autor>Grupo 11</Autor>
+					<Explicacion> Esta jugada evita la anotacion de un gol mediante
+						movimientos giratorios sobre un propio punto de referencia. Expone
+						el mejor moviemiento de este jugdor </Explicacion>
+					<JugadasPrimitivas>
+						<JugadaPrimitiva>
+							<Tipo>2</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>3</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>3</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>2</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>2</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+						<JugadaPrimitiva>
+							<Tipo>3</Tipo>
+							<Valor>0</Valor>
+						</JugadaPrimitiva>
+					</JugadasPrimitivas>
+				</JugadaComplejaDefensiva>
+			</JugadaCompleja>
+		</JugadasComplejas>
+	</Arquero>
+</Futbolistas>

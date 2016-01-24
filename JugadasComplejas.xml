@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<JugadasComplejas>
+	<JugadaComplejaDefensiva>
+		<NombreJugada>Carambola</NombreJugada>
+		<FechaCreacion>Wed Nov 18 22:46:37 COT 2015</FechaCreacion>
+		<Autor />
+		<Explicacion>Eludir al defensor con movimientos rotatorios y anotar un
+			gol
+		</Explicacion>
+		<JugadasPrimitivas>
+			<JugadaPrimitiva>
+				<Tipo>1</Tipo>
+				<Valor>30</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>2</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>3</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>3</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>4</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+		</JugadasPrimitivas>
+	</JugadaComplejaDefensiva>
+	<JugadaComplejaDefensiva>
+		<NombreJugada>Amage</NombreJugada>
+		<FechaCreacion>Wed Nov 18 23:19:19 COT 2015</FechaCreacion>
+		<Autor>Esteban</Autor>
+		<Explicacion>Realiza un amage con estilo</Explicacion>
+		<JugadasPrimitivas>
+			<JugadaPrimitiva>
+				<Tipo>1</Tipo>
+				<Valor>40</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>4</Tipo>
+				<Valor>30</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>1</Tipo>
+				<Valor>40</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>4</Tipo>
+				<Valor>30</Valor>
+			</JugadaPrimitiva>
+		</JugadasPrimitivas>
+	</JugadaComplejaDefensiva>
+	<JugadaComplejaDefensiva>
+		<NombreJugada>Zig-Zag</NombreJugada>
+		<FechaCreacion>Wed Nov 18 22:55:33 COT 2015</FechaCreacion>
+		<Autor />
+		<Explicacion>Giros inesperados de alto nivel para eludir al rival
+		</Explicacion>
+		<JugadasPrimitivas>
+			<JugadaPrimitiva>
+				<Tipo>3</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>2</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>2</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>3</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+		</JugadasPrimitivas>
+	</JugadaComplejaDefensiva>
+	<JugadaComplejaDefensiva>
+		<NombreJugada>Meteoro</NombreJugada>
+		<FechaCreacion>Wed Nov 18 22:58:57 COT 2015</FechaCreacion>
+		<Autor />
+		<Explicacion>Remate al arco con potencia maxima !</Explicacion>
+		<JugadasPrimitivas>
+			<JugadaPrimitiva>
+				<Tipo>1</Tipo>
+				<Valor>50</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>5</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>4</Tipo>
+				<Valor>50</Valor>
+			</JugadaPrimitiva>
+		</JugadasPrimitivas>
+	</JugadaComplejaDefensiva>
+	<JugadaComplejaDefensiva>
+		<NombreJugada>Camicazi</NombreJugada>
+		<FechaCreacion>Wed Nov 18 23:00:06 COT 2015</FechaCreacion>
+		<Autor />
+		<Explicacion>Defensa maxima para el momento en que se acerque el
+			oponente al arco
+		</Explicacion>
+		<JugadasPrimitivas>
+			<JugadaPrimitiva>
+				<Tipo>1</Tipo>
+				<Valor>35</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>5</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>2</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>2</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+		</JugadasPrimitivas>
+	</JugadaComplejaDefensiva>
+	<JugadaComplejaDefensiva>
+		<NombreJugada>El fantasma</NombreJugada>
+		<FechaCreacion>Wed Nov 18 23:13:47 COT 2015</FechaCreacion>
+		<Autor />
+		<Explicacion>Permite al jugador ir de la esquina directo al arco
+			enemigo y rematar al arco
+		</Explicacion>
+		<JugadasPrimitivas>
+			<JugadaPrimitiva>
+				<Tipo>1</Tipo>
+				<Valor>80</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>5</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>4</Tipo>
+				<Valor>80</Valor>
+			</JugadaPrimitiva>
+		</JugadasPrimitivas>
+	</JugadaComplejaDefensiva>
+	<JugadaComplejaDefensiva>
+		<NombreJugada>Fatality</NombreJugada>
+		<FechaCreacion>Wed Nov 18 23:24:50 COT 2015</FechaCreacion>
+		<Autor />
+		<Explicacion>Contra-ataca al oponente para quitarle el balon y
+			realizar su proximo gol
+		</Explicacion>
+		<JugadasPrimitivas>
+			<JugadaPrimitiva>
+				<Tipo>1</Tipo>
+				<Valor>50</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>3</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>5</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>4</Tipo>
+				<Valor>30</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>5</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>5</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>1</Tipo>
+				<Valor>20</Valor>
+			</JugadaPrimitiva>
+		</JugadasPrimitivas>
+	</JugadaComplejaDefensiva>
+	<JugadaComplejaDefensiva>
+		<NombreJugada>Contra-Ataque</NombreJugada>
+		<FechaCreacion>Wed Nov 18 23:31:23 COT 2015</FechaCreacion>
+		<Autor />
+		<Explicacion>Perfecta para dejar en ridiculo a tu oponente
+			arrebatandole el balon sin que lo note
+		</Explicacion>
+		<JugadasPrimitivas>
+			<JugadaPrimitiva>
+				<Tipo>3</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>1</Tipo>
+				<Valor>45</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>5</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>2</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>4</Tipo>
+				<Valor>30</Valor>
+			</JugadaPrimitiva>
+		</JugadasPrimitivas>
+	</JugadaComplejaDefensiva>
+	<JugadaComplejaDefensiva>
+		<NombreJugada>azaroso</NombreJugada>
+		<FechaCreacion>Wed Nov 18 23:48:03 COT 2015</FechaCreacion>
+		<Autor />
+		<Explicacion>Realiza un combo de amages para asustar y posteriormente
+			atacar al oponente.
+		</Explicacion>
+		<JugadasPrimitivas>
+			<JugadaPrimitiva>
+				<Tipo>1</Tipo>
+				<Valor>30</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>5</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>3</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>1</Tipo>
+				<Valor>25</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>5</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>2</Tipo>
+				<Valor>0</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>1</Tipo>
+				<Valor>25</Valor>
+			</JugadaPrimitiva>
+			<JugadaPrimitiva>
+				<Tipo>4</Tipo>
+				<Valor>25</Valor>
+			</JugadaPrimitiva>
+		</JugadasPrimitivas>
+	</JugadaComplejaDefensiva>
+</JugadasComplejas>
